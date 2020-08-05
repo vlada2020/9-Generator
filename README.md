@@ -10,19 +10,19 @@ The user will be prompted for their GitHub username, which will be used to make 
 
 // I need to use the 'FS' or File System module, to write a new file (readme.md) (using Markdown syntax) The README will be populated with the following:
 
-At least one badge
-Project title
-Description
-Table of Contents
-Installation
-Usage
-License
-Contributing
-Tests
-Questions
-User GitHub profile picture
-User GitHub email
-Following the common templates for user stories, we can frame this challenge as follows:
+*At least one badge
+*Project title
+*Description
+*Table of Contents
+*Installation
+*Usage
+*License
+*Contributing
+*Tests
+*Questions
+*User GitHub profile picture
+*User GitHub email
+*Following the common templates for user stories, we can frame this challenge as *follows:
 
 AS A developer
 
