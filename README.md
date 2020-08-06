@@ -29,4 +29,4 @@ The README will be populated with the following:
 
 
 ## Demonstration of project 
-![demo](vlada.hw9.webm)
+![demo](hw9.gif)
