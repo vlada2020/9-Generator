@@ -1,48 +1,48 @@
  
  
-![Avatar](https://avatars2.githubusercontent.com/u/66435?v=4)
+![Avatar](https://avatars1.githubusercontent.com/u/60941060?v=4)
  
-User Name: ssssss
+User Name: vlada2020
  
 Email: null
 
 
-![bage image](https://img.shields.io/static/v1?label=Version&message=fghjjj&color=<COLOR>) 
+![bage image](https://img.shields.io/static/v1?label=Version&message=active&color=<COLOR>) 
 ## Project Title:
 
- # ffggg 
+ # good readme generator 
  
 ## Description: 
 
- fgggh 
+ sssss 
  
 ## Table of contents
  
 ### Installation
 
- ffgg
+ npm instal
  
 
 ### Usage
  
- ggg
+ ssss
  
 ### Credits 
  
- hh
+ ssss
  
 ### License 
  
- k
+ ssss
  
 ## Contributing 
  
- k
+ vlada antonchenko
  
 ## Tests 
  
- 
+ manual test
  
 ## Questions 
  
- 
+ no questions
